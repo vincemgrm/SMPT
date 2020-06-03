@@ -1,5 +1,5 @@
 ﻿Imports System.Net.Mail
-Public Class Form1
+Public Class frmMain
     Public Function GenerateMessage()
         Dim BodyMessage As String = ""
         Dim sourceString As String = New Net.WebClient().DownloadString("email.html")

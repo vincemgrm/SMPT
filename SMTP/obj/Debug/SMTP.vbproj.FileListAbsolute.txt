@@ -8,3 +8,13 @@ C:\Users\MIS-01\Desktop\SMTP\SMTP\obj\Debug\SMTP.vbproj.GenerateResource.Cache
 C:\Users\MIS-01\Desktop\SMTP\SMTP\obj\Debug\SMTP.exe
 C:\Users\MIS-01\Desktop\SMTP\SMTP\obj\Debug\SMTP.xml
 C:\Users\MIS-01\Desktop\SMTP\SMTP\obj\Debug\SMTP.pdb
+C:\Users\MIS-01\Documents\GitHub\SMPT\SMTP\obj\Debug\SMTP.exe
+C:\Users\MIS-01\Documents\GitHub\SMPT\SMTP\obj\Debug\SMTP.xml
+C:\Users\MIS-01\Documents\GitHub\SMPT\SMTP\obj\Debug\SMTP.pdb
+C:\Users\MIS-01\Documents\GitHub\SMPT\SMTP\bin\Debug\SMTP.exe
+C:\Users\MIS-01\Documents\GitHub\SMPT\SMTP\bin\Debug\SMTP.pdb
+C:\Users\MIS-01\Documents\GitHub\SMPT\SMTP\bin\Debug\SMTP.xml
+C:\Users\MIS-01\Documents\GitHub\SMPT\SMTP\obj\Debug\SMTP.vbprojResolveAssemblyReference.cache
+C:\Users\MIS-01\Documents\GitHub\SMPT\SMTP\obj\Debug\SMTP.frmMain.resources
+C:\Users\MIS-01\Documents\GitHub\SMPT\SMTP\obj\Debug\SMTP.Resources.resources
+C:\Users\MIS-01\Documents\GitHub\SMPT\SMTP\obj\Debug\SMTP.vbproj.GenerateResource.Cache
